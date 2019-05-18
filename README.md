@@ -9,7 +9,7 @@ This repo is for my (almost first) study of JavaScript, jQuery and D3.js.
 + The chart is not drawn from first.
 
 ## Usage: From local environment (Mac)
-In CLS, type
+In CLI, type
 `python3 -m http.server`
 and access to http://0.0.0.0:8000/
 
